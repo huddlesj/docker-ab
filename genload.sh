@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#default values
+DEF-TARGET-URL="http://127.0.0.1"
+DEF-THREADS=1
+DEF-COUNT=1
+
+
+#AB-TARGET-URL
+#AB-THREADS
+#AB-COUNT
